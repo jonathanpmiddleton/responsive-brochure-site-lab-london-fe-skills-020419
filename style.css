@@ -1,0 +1,187 @@
+.flex-container {
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-gap: 2px;
+  padding: none;
+  margin-bottom: none;
+  margin: none;
+}
+
+.flex-container > div {
+  background-color: grey;
+  text-align: left;
+  padding: none;
+  font-size: 2em;
+}
+
+.sudoku {
+  background-color: white;
+  align-content: center;
+}
+
+
+.flex-container1 {
+  display: row;
+  grid-template-rows: auto;
+  grid-gap: 2px;
+  background-color: gray;
+  padding: 2px;
+  align-content: stretch; 
+}
+
+
+.item1 {
+  grid-column-start: 1;
+  grid-column-end: 3;
+  background-image: url("https://assets.londonist.com/uploads/2016/08/i875/foster.jpg");
+  background-position: center;
+  background-repeat: none;
+  background-size: 100%;
+  height: 100%;
+  padding: none;
+}
+
+h1 {
+  text-align: center
+}
+
+h2 {
+    text-align: center;
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 5px;
+    margin-block-end: 5px;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+h5 {
+  text-align: center;
+}
+
+.item2 {
+  grid-column-start: 1;
+  grid-column-end: 2;
+}
+
+.item3 {
+  grid-column-start: 2;
+  grid-column-end: 3;
+}
+
+.item4 {
+  grid-column-start: 1;
+  grid-column-end: 3;
+  background-color: white;
+}
+
+.item5 {
+  padding: 4px;
+  border-style: solid;
+  border-color: white;
+  align-content: left;
+}
+
+.item5 img {
+  height: 50px;
+  width: 50px;
+}
+
+.item6 {
+  padding: 4px;
+  border-style: solid;
+  border-color: white;
+}
+
+.item6 img {
+  height: 50px;
+  width: 50px;
+}
+
+.item7 {
+  padding: 4px;
+  border-style: solid;
+  border-color: white;
+}
+
+.item7 img {
+  height: 50px;
+  width: 50px;
+}
+
+.item8 {
+  padding: 4px;
+  border-style: solid;
+  border-color: white;
+}
+
+.item8 img {
+   height: 50px;
+  width: 50px;
+}
+
+.item9 {
+  padding: 4px;
+  border-style: solid;
+  border-color: white;
+}
+
+.item9 img {
+   height: 50px;
+  width: 50px;
+}
+
+.item10 {
+  padding: 4px;
+  border-style: solid;
+  border-color: white;
+}
+.item10 img {
+  height: auto;
+  width: auto;
+}
+
+.item11 {
+  padding: 4px;
+  border-style: solid;
+  border-color: white;
+}
+
+.item11 img {
+height: 50px;
+  width: 50px;
+}
+
+.item12 {
+  padding: 4px;
+  border-style: solid;
+  border-color: white;
+}
+
+.item12 img {
+  height: 50px;
+  width: 50px;
+}
+
+.item13 {
+  padding: 4px;
+  border-style: solid;
+  border-color: white;
+}
+
+.item13 img {
+  height: 50px;
+  width: 50px;
+}
+
+.item14 {
+  padding: 4px;
+  border-style: solid;
+  border-color: white;
+}
+
+.item14 img {
+  height: 50px;
+  width: 75px;
+}
