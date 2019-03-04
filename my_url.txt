@@ -1,2 +1,1 @@
-http://www.chief-smash.surge.sh/
-http://recondite-coil.surge.sh
+//*
